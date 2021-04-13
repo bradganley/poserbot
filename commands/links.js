@@ -19,6 +19,6 @@ module.exports = {
     name: 'links',
 	description: 'Links to all of the Only Posers places you\'d want to go',
     execute(message) {
-        apodGet(message);
+        linkBoi(message);
     }
 }
