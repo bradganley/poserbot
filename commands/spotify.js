@@ -1,6 +1,5 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const spotify = require('spotify');
 const axios = require('axios')
 
 module.exports = {

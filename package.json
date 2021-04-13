@@ -19,7 +19,6 @@
         "node-fetch": "^2.6.1",
         "nodemon": "^2.0.6",
         "querystring": "^0.2.0",
-        "rss-parser": "^3.10.0",
-        "spotify": "^0.3.0"
+        "rss-parser": "^3.10.0"
     }
 }
