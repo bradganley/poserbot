@@ -1,7 +1,7 @@
 {
-    "name": "mangobot",
-    "version": "0.5.0",
-    "description": "A bot to manage the solemn vows of our users and also deliver additional myrcene via first-pass metabolism",
+    "name": "poserbot",
+    "version": "0.1.0",
+    "description": "You can't imagine the influence The Clash has had on this bot.",
     "main": "bot.js",
     "author": "Brad Ganley",
     "scripts": {
