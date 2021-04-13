@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const fetch = require('node-fetch');
 
-const linkBoi = () => {
+const linkBoi = (mes) => {
     var embed = new Discord.MessageEmbed()
         .setColor(0x91EE60)
         .setTitle('Only Posers Don\'t Click All of These Links')
