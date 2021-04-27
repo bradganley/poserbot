@@ -16,7 +16,7 @@ const diceRoll = async (msg, args) => {
 
 module.exports = {
     name: 'roll',
-	description: 'Rolls some dice. Use the command as follows to specify the number and type of dice: ```!roll X dN``` where X represents the number of dice youd like to roll and N represents the number of sides on the dice.',
+	description: 'Rolls some dice. Use the command as follows to specify the number and type of dice: ```!poser roll X dN``` where X represents the number of dice youd like to roll and N represents the number of sides on the dice.',
     execute(message, args) {
         diceRoll(message, args);
 	}
