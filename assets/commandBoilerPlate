@@ -3,8 +3,8 @@ const client = new Discord.Client();
 const fetch = require('node-fetch');
 
 module.exports = {
-    name: '',
-	description: '',
+    name: 'NAME',
+	description: 'DESCRIPTION',
     execute(message, args) {
         
 	}
