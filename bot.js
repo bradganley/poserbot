@@ -19,7 +19,7 @@ for (const file of commandFiles) {
 
 //BOT_URL=https://discord.com/oauth2/authorize?client_id=831406061860290600&scope=bot&permissions=268691458
 
-const prefix = "!poser";
+const prefix = process.env.PREFIX;
 const _db_ = require('@replit/database');
 const db = new _db_();
 const mangos = ['mango', '🥭', 'MANGO', 'Mango'];
